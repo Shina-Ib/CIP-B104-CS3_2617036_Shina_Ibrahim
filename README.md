@@ -12,24 +12,24 @@ This lab investigates a forensic evidence package containing a USB image and net
 
 
 **Objectives**
--Examine the FAT16 USB filesystem.
--Recover allocated, deleted, and carved images.
--Investigate steganography and hidden files.
--Reconstruct FTP and HTTP transfers.
--Recover and examine the encrypted ZIP archive.
--Perform safe static analysis of the transferred executable.
--Hash and deduplicate recovered images.
--Correlate evidence and build a UTC timeline.
--Determine the total number of unique rhinoceros images.
+1. Examine the FAT16 USB filesystem.
+2. Recover allocated, deleted, and carved images.
+3. Investigate steganography and hidden files.
+4. Reconstruct FTP and HTTP transfers.
+5. Recover and examine the encrypted ZIP archive.
+6. Perform safe static analysis of the transferred executable.
+7. Hash and deduplicate recovered images.
+8. Correlate evidence and build a UTC timeline.
+9. Determine the total number of unique rhinoceros images.
 
 
 **Tools**
--Sleuth Kit / Autopsy
--PhotoRec
--Wireshark
--File/hash analysis tools
--Approved steganography tools
--Static malware-analysis tools
+1. Sleuth Kit / Autopsy
+2. PhotoRec
+3. Wireshark
+4. File/hash analysis tools
+5. Approved steganography tools
+6. Static malware-analysis tools
 
 
 **Evidence Handling**
